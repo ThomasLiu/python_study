@@ -2,10 +2,10 @@
 
 Python的3.0版本，常被称为Python 3000，或简称Py3k。相对于Python的早期版本，这是一个较大的升级。为了不带入过多的累赘，Python 3.0在设计的时候没有考虑向下兼容。
 
-**由于Mac是自带python2.7的，建议不要直接升级，而是安装双Python**，安装教程：
+> **由于Mac是自带python2.7的，建议不要直接升级，而是安装双Python**，安装教程：
 [Mac安装Python2和Python3、pip2和pip3、ipython2和ipython3](https://www.jianshu.com/p/3701ff3399dd)
 
-链接内核心内容
+**链接内核心内容**
 
 #### 1.Homebrew的安装
 ```
