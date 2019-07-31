@@ -39,6 +39,7 @@ ipython # 测试
 ---
 
 #### VScode 插件篇
-> + 安装Python扩展，如果前面安装的anaconda的路径已经加入到path环境变量中，这里跟着提示操作就可以，vscode会自动找到系统python的位置，调试时如果发现提示pylint没有安装，可以通过pip或者conda安装，参看[Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)
++ 安装Python扩展，如果前面安装的anaconda的路径已经加入到path环境变量中，这里跟着提示操作就可以，vscode会自动找到系统python的位置，调试时如果发现提示pylint没有安装，可以通过pip或者conda安装，参看[Linting Python in Visual Studio Code](https://code.visualstudio.com/docs/python/linting)
 + 安装Jupyter、Path Intellisense、vscode-python-docstring等扩展，直接参看扩展说明以及[Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)即可，都很直观
 + 安装Settings Sync，用于同步配置，将配置保存到github gist，参看扩展说明一步步操作即可，快捷键Shift + Alt + U上传配置
+![插件](https://s2.ax1x.com/2019/01/05/F7n7sP.png)
