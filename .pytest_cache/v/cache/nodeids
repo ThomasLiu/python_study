@@ -1,0 +1,6 @@
+[
+  "dome/lesson9/student_test.py::TestStudent::test_0_to_60",
+  "dome/lesson9/student_test.py::TestStudent::test_60_to_80",
+  "dome/lesson9/student_test.py::TestStudent::test_80_to_100",
+  "dome/lesson9/student_test.py::TestStudent::test_invalid"
+]

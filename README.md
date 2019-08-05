@@ -33,6 +33,10 @@ pip2 -V  # 测试
 ```
 pip3 install ipython 
 ipython3 # 测试
-pip install ipython
+pip2 install ipython
 ipython # 测试
 ```
+
+
+## 相关入门学习教程
+[Python3 入门](https://www.runoob.com/python3/python3-install.html)
