@@ -36,12 +36,11 @@ ipython3 # 测试
 pip2 install ipython
 ipython # 测试
 ```
-<<<<<<< HEAD
 
 
 ## 相关入门学习教程
 [Python3 入门](https://www.runoob.com/python3/python3-install.html)
-=======
+
 ---
 
 #### VScode 插件篇
@@ -49,4 +48,3 @@ ipython # 测试
 + 安装Jupyter、Path Intellisense、vscode-python-docstring等扩展，直接参看扩展说明以及[Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)即可，都很直观
 + 安装Settings Sync，用于同步配置，将配置保存到github gist，参看扩展说明一步步操作即可，快捷键Shift + Alt + U上传配置
 ![插件](https://s2.ax1x.com/2019/01/05/F7n7sP.png)
->>>>>>> fda2f01b60a36866d92a6b0caeca17958c2e3572
